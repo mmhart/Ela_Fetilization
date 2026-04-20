@@ -1,0 +1,6 @@
+"Species","Genus","Family","VTX_num","TaxLabel","Control_present","n_AMF_present","n_AMF_absent","AMF_present_in","AMF_absent_in","Status","Status_strict"
+"VTX00183","Glomus","Glomeraceae",183,"Glomus VTX00183",TRUE,0,3,"","CC4, Cuba8, DAOM197198","Lost in ≥1 AMF","Completely lost"
+"VTX00191","Glomus","Glomeraceae",191,"Glomus VTX00191",TRUE,0,3,"","CC4, Cuba8, DAOM197198","Lost in ≥1 AMF","Completely lost"
+"VTX00212","Glomus","Glomeraceae",212,"Glomus VTX00212",TRUE,0,3,"","CC4, Cuba8, DAOM197198","Lost in ≥1 AMF","Completely lost"
+"VTX00319","Glomus","Glomeraceae",319,"Glomus VTX00319",TRUE,0,3,"","CC4, Cuba8, DAOM197198","Lost in ≥1 AMF","Completely lost"
+"VTX00398","Glomus","Glomeraceae",398,"Glomus VTX00398",TRUE,0,3,"","CC4, Cuba8, DAOM197198","Lost in ≥1 AMF","Completely lost"
